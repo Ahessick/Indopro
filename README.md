@@ -1,2 +1,2 @@
 # DesertAdventure
-* OOP graphical game with keyboard and mouse listeners
+* OOP graphical game with keyboard and mouse listeners, similar to Adventure Island or Super Mario
