@@ -5,7 +5,7 @@
 <img src="https://github.com/Ahessick/Indopro/blob/main/images/DesertAdventure1.jpg?raw=true">
 
 ## Mockup/Images
-<img src="https://github.com/Ahessick/Indopro/blob/main/images/Cactus.png?raw=true">
+<img src="https://github.com/Ahessick/Indopro/blob/main/images/cactus1.png?raw=true">
 <img src="https://github.com/Ahessick/Indopro/blob/main/images/startscreen.png?raw=true">
 
 
