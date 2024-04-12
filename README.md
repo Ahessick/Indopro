@@ -7,6 +7,7 @@
 ## Mockup/Images
 <img src = "https://github.com/Ahessick/Indopro/blob/main/images/snake.png?raw=true">
 <img src = "https://github.com/Ahessick/Indopro/blob/main/images/foxn.png?raw=true">
+<img src = "https://github.com/Ahessick/Indopro/blob/main/images/cactusn1.png?raw=true">
 
 <img src="https://github.com/Ahessick/Indopro/blob/main/images/startscreen.png?raw=true">
 
