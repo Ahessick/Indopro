@@ -10,7 +10,6 @@
 <img src="https://github.com/Ahessick/Indopro/blob/main/images/cactus2.png?raw=true">
 <img src="https://github.com/Ahessick/Indopro/blob/main/images/cactus3.png?raw=true">
 <img src="https://github.com/Ahessick/Indopro/blob/main/images/startscreen.png?raw=true">
-<img src="https://github.com/Ahessick/Indopro/blob/main/images/fox1.png?raw=true">
 
 
 
